@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.exe
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.deps.json
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.runtimeconfig.json
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.dll
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\ref\DIO.SERIES.dll
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.pdb
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.dll
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\ref\DIO.SERIES.dll
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.pdb
+C:\Users\Daniel\Desktop\Curso-MRV\projeto-01\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.genruntimeconfig.cache
